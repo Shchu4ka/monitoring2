@@ -18,11 +18,11 @@
   `node_memory_MemFree_bytes`
   - количество места на файловой системе.
   `node_filesystem_free_bytes{mountpoint="/"}`
-  - Скрин дашборда
-  - 
+
+## Скрин дашборда 
 ![image](https://github.com/user-attachments/assets/f1f07129-5fea-4db1-93be-69a956645ecb)
 
-3. Алерт в CPULA не виден, так как загрузка ЦПУ очень мала и он выходит за рамки оси, выставлен в 80%
+4. Алерт в CPULA не виден, так как загрузка ЦПУ очень мала и он выходит за рамки оси, выставлен в 80%
    ![image](https://github.com/user-attachments/assets/4991cb5b-f893-4f57-aad0-c4a30725cec2)
 
-4. [dashboard.json](https://github.com/Shchu4ka/monitoring2/blob/main/dashboard.json)
+5. [dashboard.json](https://github.com/Shchu4ka/monitoring2/blob/main/dashboard.json)
